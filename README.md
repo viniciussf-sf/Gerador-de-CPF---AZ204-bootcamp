@@ -1,4 +1,5 @@
 Criando um Microsserviço Serverless para Validação de CPF
+
 A seguir, apresento um guia para criar um microsserviço serverless, usando por exemplo o Azure Functions com JavaScript, para realizar a validação de um CPF. O serviço receberá o CPF por meio de um endpoint HTTP e aplicará a lógica de validação (eliminação de caracteres não numéricos, verificação de dígitos iguais e cálculo dos dígitos verificadores).
 
 Passos para criar o microsserviço
